@@ -1,0 +1,7 @@
+{
+  "use client": {
+    "prefix": "use client",
+    "body": ["'use client';"],
+    "description": "use client를 추가합니다."
+  }
+}

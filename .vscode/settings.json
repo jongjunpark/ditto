@@ -1,0 +1,41 @@
+{
+  "cSpell.words": [
+    "imtest",
+    "xsmall",
+    "cropend",
+    "cropstart",
+    "cropperjs",
+    "sidesheet",
+    "uuidv",
+    "sumber",
+    "Pretendard",
+    "swiper",
+    "sundefined",
+    "hocs",
+    "salesboost",
+    "Daum",
+    "TARGETINGGATES_CONVERSION",
+    "REMARKETING",
+    "retargeting",
+    "mobon",
+    "imweb",
+    "creteo",
+    "criteo",
+    "mobion",
+    "imwebme",
+    "xlarge",
+    "tanstack",
+    "naver",
+    "kakao",
+    "imlocal",
+    "chakra",
+    "imds",
+    "pmax"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "git.ignoreLimitWarning": true,
+  "svg.preview.background": "editor"
+}
